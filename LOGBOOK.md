@@ -17,8 +17,8 @@
 - Cách sửa / Bài học: thay "&&" bằng ";" do không thấy trong bản vscode
 
 ### Lần 2: Bài 1
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: Pass
+- Lỗi / Cách sửa: ![alt text](image-3.png) fix code
 
 ### Lần 3: Bài 1 (Dự phòng)
 - Trạng thái: 
