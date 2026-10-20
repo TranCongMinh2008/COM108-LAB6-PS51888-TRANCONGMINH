@@ -27,10 +27,10 @@
 ---
 
 ### Lần 4: Bài 2 - Nén Sai Phân Dữ Liệu IoT (Delta Encoding)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Trạng thái: Failed
+- Prompt hỏi AI (nếu có): Có![alt text](image-5.png)
+- Lỗi phát hiện qua Test (nếu có): thiếu "i++" và ";"![alt text](image-4.png)
+- Cách sửa / Bài học: thêm "i++" và ";"
 
 ### Lần 5: Bài 2
 - Trạng thái: 
