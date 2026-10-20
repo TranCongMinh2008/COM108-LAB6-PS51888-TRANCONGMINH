@@ -33,8 +33,8 @@
 - Cách sửa / Bài học: thêm "i++" và ";"
 
 ### Lần 5: Bài 2
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: Pass
+- Lỗi / Cách sửa: ![alt text](image-7.png)
 
 ### Lần 6: Bài 2 (Dự phòng)
 - Trạng thái: 

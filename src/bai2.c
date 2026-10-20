@@ -62,11 +62,12 @@ void nenDelta(int goc[], int delta[], int n) {
     // LƯU Ý: Không dùng lệnh in ra màn hình bên trong hàm
     if (n <= 0) {
         return;
+
     } else {
 
         delta[0] = goc[0];
-        for (int i = 1; i < n; i) {
-            delta[i] = goc[i] + goc[i - 1]
+        for (int i = 1; i < n; i++) {
+            delta[i] = goc[i] - goc[i - 1];
         }
     }
 }
@@ -76,11 +77,13 @@ void giaiNenDelta(int delta[], int khoiPhuc[], int n) {
     // - khoiPhuc[0] = delta[0]
     // - Với i >= 1: khoiPhuc[i] = khoiPhuc[i-1] + delta[i]
     // LƯU Ý: Không dùng lệnh in ra màn hình bên trong hàm
-    if (n <= 0) {}
-    } else {
-        khoiPhuc[0] = delta[0]
+    if (n <= 0) {
+        return;
 
-        for (int i = 1; i < n; i+) {
+    } else {
+        khoiPhuc[0] = delta[0];
+
+        for (int i = 1; i < n; i++) {
             khoiPhuc[i] = khoiPhuc[i - 1] + delta[i];
         }
     }
