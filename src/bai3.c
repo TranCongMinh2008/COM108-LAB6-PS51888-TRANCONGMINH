@@ -57,7 +57,7 @@ void lamMoMaTran(int src[][MAX_COLS], int dest[][MAX_COLS], int row, int col) {
         for (int j = 0; j < col; j++) {
             int tong = 0, dem = 0;
 
-            for (int r = i - 1; r <= i + 1; r+)
+            for (int r = i - 1; r <= i + 1; r++)
                 for (int c = j - 1; c <= j + 1; c++)
                     if (r >= 0 && r < row && c >= 0 && c < col) {
                         tong += src[r][c];
