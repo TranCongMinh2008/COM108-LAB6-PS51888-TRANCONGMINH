@@ -43,13 +43,13 @@
 ---
 
 ### Lần 7: Bài 3 - Bộ Lọc Làm Mờ Điểm Ảnh (Box Blur Filter 3x3)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Trạng thái: Failed
+- Prompt hỏi AI (nếu có): ![alt text](image-8.png)
+- Lỗi phát hiện qua Test (nếu có): ![alt text](image-9.png)
+- Cách sửa / Bài học: Thêm dấu "+"
 
 ### Lần 8: Bài 3
-- Trạng thái: 
+- Trạng thái: Pass
 - Lỗi / Cách sửa: 
 
 ### Lần 9: Bài 3 (Dự phòng)
